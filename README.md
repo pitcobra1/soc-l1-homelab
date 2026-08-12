@@ -1,4 +1,4 @@
-# SOC l1 Hhmelab
+# SOC l1 Homelab
 
 A hands-on cybersecurity homelab designed to develop practical skills for **SOC Analyst L1 / Junior Cybersecurity Analyst** roles.
 
